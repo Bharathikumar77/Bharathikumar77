@@ -5,11 +5,6 @@
 
 <br/>
 
-<!-- 3D Contribution Graph (generated daily by GitHub Actions) -->
-<img src="./profile-3d-contrib/profile-night-green.svg" width="100%" alt="3D Contribution Graph" />
-<sub>🔗 3D graph auto-generated daily — see setup note below</sub>
-
-<br/><br/>
 
 <!-- Animated defensive security / threat detection radar -->
 <img src="./threat-detection-radar.svg" width="100%" alt="Live Threat Detection Radar" />
