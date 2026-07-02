@@ -6,13 +6,6 @@
 <br/>
 
 
-<a href="https://www.linkedin.com/in/bharathikumar-j-719a702a7/"><img src="https://img.shields.io/badge/LinkedIn-00BFFF?style=for-the-badge&logo=linkedin&logoColor=black" /></a>
-<a href="https://github.com/Bharathikumar77"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://tryhackme.com/p/bharathikumar969"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=00D9FF" /></a>
-<a href="mailto:bharathikumar969@gmail.com"><img src="https://img.shields.io/badge/Gmail-00BFFF?style=for-the-badge&logo=gmail&logoColor=black" /></a>
-<img src="https://img.shields.io/badge/Open_to-SOC_Analyst_Roles-00D9FF?style=for-the-badge&labelColor=1a1a1a" />
-<img src="https://img.shields.io/badge/Status-Learning_%26_Building-0078D4?style=for-the-badge" />
-
 <br/><br/>
 
 
