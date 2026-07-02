@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Banner - New Theme: Matrix Green -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:0D2B1A,50:00FF41,75:39FF14,100:0D1117&height=260&section=header&text=J.%20Bharathikumar&fontSize=46&fontColor=ffffff&animation=blink&fontAlignY=32&desc=Cyber%20Security%20Student%20%7C%20Blue%20Team&descAlignY=52&descSize=16&descColor=d0ffd6" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:0D2B1A,50:00FF41,75:39FF14,100:0D1117&height=260&section=header&text=J.%20Bharathikumar&fontSize=46&fontColor=ffffff&animation=blink&fontAlignY=32&desc=Cyber%20Security%20Student%20%7C%20SOC%20analyst&descAlignY=52&descSize=16&descColor=d0ffd6" width="100%"/>
 
 <br/>
 
