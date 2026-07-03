@@ -131,7 +131,7 @@ Browser-based labs simulating real investigations — Windows Event Log analysis
 <td width="50%" valign="top">
 
 ### <span style="color:#00D9FF"><b>SOC Analyst Roadmap</b></span>
-<img src="https://img.shields.io/badge/status-in_progress-00BFFF?style=flat-square&labelColor=1a1a1a" />
+<img src="https://img.shields.io/badge/status-active-00BFFF?style=flat-square&labelColor=1a1a1a" />
 
 A free, structured learning path from networking and OS fundamentals through SIEM tools, detection, and MITRE ATT&CK — built for beginners entering SOC work.
 
