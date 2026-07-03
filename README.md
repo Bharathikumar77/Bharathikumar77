@@ -142,7 +142,7 @@ A free, structured learning path from networking and OS fundamentals through SIE
 <tr>
 <td width="50%" valign="top">
 
-### <span style="color:#00D9FF"><b>AI-Powered SOC Learning Platform</b></span>
+### <span style="color:#00D9FF"><b>SOC LEARING PLATFORM CLONE OF TRYHACKME VERSION WITH FREE </b></span>
 <img src="https://img.shields.io/badge/status-in_progress-00BFFF?style=flat-square&labelColor=1a1a1a" />
 
 Interactive platform delivering realistic SOC investigations with AI-assisted guidance and practical exercises for SOC learners.
