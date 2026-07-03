@@ -1,9 +1,10 @@
 <div align="center">
 
 <!-- Header Banner - Cyber Blue Theme -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:0D1B2B,50:00BFFF,75:0078D4,100:0D1117&height=260&section=header&text=J.%20Bharathikumar&fontSize=46&fontColor=ffffff&animation=blink&fontAlignY=32&desc=Cyber%20Security%20Student%20%7C%20SOC%20analyst&descAlignY=52&descSize=16&descColor=d0eaff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:0D1B2B,50:00BFFF,75:0078D4,100:0D1117&height=260&section=header&text=J.%20Bharathikumar&fontSize=46&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 <br/>
+
 
 
 <br/><br/>
@@ -18,7 +19,7 @@
 
 ## <a name="about"></a><span style="color:#00BFFF"><b>About Me</b></span>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=1800&pause=500&color=00D9FF&center=false&vCenter=true&width=600&height=30&repeat=true&lines=%3E+whoami;J.+Bharathikumar+%E2%80%94+Cyber+Security+Student" alt="whoami typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=1800&pause=500&color=00D9FF&center=false&vCenter=true&width=600&height=30&repeat=true&lines=%3E+whoa%2C+you+found+my+repo!&lines=%3E+I+detect.+I+hunt.+I+defend." />
 
 <table width="100%">
 <tr>
@@ -26,13 +27,13 @@
 
 I'm **J. Bharathikumar**, a Cyber Security student at Mahalingam College of Engineering and Technology, working step by step toward a career as a **SOC (Security Operations Center) Analyst**.
 
-My focus sits firmly on the **blue-team** side of security. I'm drawn to the investigative side of the field — **threat detection**, **incident response**, and **proactive threat hunting** — the work of spotting the signal inside the noise, tracing an attacker's footprint through logs, and responding fast enough that it never becomes a headline.
+My focus sits firmly on the **blue-team** side of security. I'm drawn to the investigative side of the field — **threat detection**, **incident response**, and **proactive threat hunting** — the work that happens in a real SOC.
 
-I learn by **building, not just reading**. Rather than only working through courses, I design and build interactive SOC labs, realistic investigation scenarios, and browser-based tools that simulate what an analyst actually sees on the job — Windows Event Logs, alert triage, phishing artifacts, and MITRE ATT&CK-mapped intrusions.
+I learn by **building, not just reading**. Rather than only working through courses, I design and build interactive SOC labs, realistic investigation scenarios, and browser-based tools that simulate what analysts actually do.
 
-Alongside that, I'm developing a free, structured **SOC Analyst Roadmap** — a step-by-step path covering networking and OS fundamentals, SIEM tools, detection engineering, and MITRE ATT&CK — aimed at helping other beginners break into SOC work without getting lost in scattered resources.
+Alongside that, I'm developing a free, structured **SOC Analyst Roadmap** — a step-by-step path covering networking and OS fundamentals, SIEM tools, detection engineering, and MITRE ATT&CK — aimed at helping newcomers enter the field with confidence.
 
-My long-term goal is to become the analyst who catches what automated tools miss: someone who understands attacker behavior deeply enough to detect it early, respond calmly under pressure, and keep improving the detection stack over time.
+My long-term goal is to become the analyst who catches what automated tools miss: someone who understands attacker behavior deeply enough to detect it early, respond calmly under pressure, and keep systems (and people) safe.
 
 </td>
 <td width="35%" valign="top">
@@ -112,6 +113,16 @@ Nachimuthu Polytechnic College, Pollachi
 
 </div>
 
+<br/>
+
+<div align="center">
+
+## <span style="color:#00BFFF"><b>Live SOC Alerts Feed</b></span>
+
+![SOC Alerts Feed](./soc-alerts-feed.svg)
+
+</div>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,25:0D1B2B,50:00BFFF,75:0078D4,100:0D1117&height=3&width=1000" />
 
 ## <a name="projects"></a><span style="color:#00BFFF"><b>Projects</b></span>
@@ -167,7 +178,7 @@ Diploma capstone — a secure cloud storage system on a Trusted Third Party mode
 
 ## <a name="learning"></a><span style="color:#00BFFF"><b>Currently Learning</b></span>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2000&pause=500&color=0078D4&center=false&vCenter=true&width=600&height=30&repeat=true&lines=Leveling+up+the+detection+stack...;Reading+logs.+Chasing+alerts.+Getting+sharper." alt="learning typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2000&pause=500&color=0078D4&center=false&vCenter=true&width=600&height=30&repeat=true&lines=Levelin%27+up+in+Detection+Engineering&lines=Mastering+Sigma+Rules+%26+Detection+Logic&lines=Deep+diving+into+MITRE+ATT%26CK" />
 
 <div align="center">
 
@@ -186,7 +197,7 @@ Diploma capstone — a secure cloud storage system on a Trusted Third Party mode
 
 ## <span style="color:#00BFFF"><b>Career Objective</b></span>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2500&pause=800&color=00BFFF&center=true&vCenter=true&width=700&height=60&randomizeOrder=true&repeat=true&lines=Building+a+career+as+a+SOC+Analyst;Sharpening+detection+%26+response+skills+daily;One+alert+at+a+time." alt="objective typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2500&pause=800&color=00BFFF&center=true&vCenter=true&width=700&height=60&randomizeOrder=true&repeat=true&lines=To+become+a+Security+Operations+Center+Analyst;To+detect+threats+that+others+miss;To+investigate+with+precision+and+speed;To+defend+what+matters" />
 
 <br/>
 
