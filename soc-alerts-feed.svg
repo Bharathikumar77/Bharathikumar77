@@ -1,0 +1,76 @@
+<svg width="100%" height="360" viewBox="0 0 700 360" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="cardShadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="4" stdDeviation="4" flood-color="#000000" flood-opacity="0.55"/>
+    </filter>
+    <linearGradient id="cardFace" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#132018"/>
+      <stop offset="100%" stop-color="#0D1712"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="0" y="0" width="700" height="360" fill="#0D1117"/>
+
+  <text x="350" y="30" text-anchor="middle" font-family="monospace" font-size="14" fill="#39FF14" letter-spacing="2">INCOMING SOC ALERTS</text>
+  <line x1="40" y1="42" x2="660" y2="42" stroke="#00FF41" stroke-opacity="0.25" stroke-width="0.5"/>
+
+  <g transform="translate(0,0)">
+
+    <g>
+      <rect x="0" y="0" width="360" height="52" rx="6" fill="#000000" opacity="0.35" transform="translate(4,4)"/>
+      <rect x="0" y="0" width="360" height="52" rx="6" fill="url(#cardFace)" stroke="#FF3860" stroke-width="1" filter="url(#cardShadow)"/>
+      <rect x="12" y="14" width="8" height="24" rx="2" fill="#FF3860"/>
+      <text x="30" y="24" font-family="monospace" font-size="12" fill="#FF3860" font-weight="bold">CRITICAL</text>
+      <text x="30" y="40" font-family="monospace" font-size="11" fill="#c9ffd6">Ransomware behavior detected — HOST-04</text>
+      <animateTransform attributeName="transform" type="translate"
+        values="750,60; 20,60; 20,60; -400,60"
+        keyTimes="0; 0.15; 0.85; 1"
+        dur="9s" repeatCount="indefinite"/>
+    </g>
+
+    <g>
+      <rect x="0" y="0" width="360" height="52" rx="6" fill="#000000" opacity="0.35" transform="translate(4,4)"/>
+      <rect x="0" y="0" width="360" height="52" rx="6" fill="url(#cardFace)" stroke="#FFB300" stroke-width="1" filter="url(#cardShadow)"/>
+      <rect x="12" y="14" width="8" height="24" rx="2" fill="#FFB300"/>
+      <text x="30" y="24" font-family="monospace" font-size="12" fill="#FFB300" font-weight="bold">HIGH</text>
+      <text x="30" y="40" font-family="monospace" font-size="11" fill="#c9ffd6">Suspicious PowerShell execution chain</text>
+      <animateTransform attributeName="transform" type="translate"
+        values="750,128; 20,128; 20,128; -400,128"
+        keyTimes="0; 0.15; 0.85; 1"
+        dur="9s" begin="2.2s" repeatCount="indefinite"/>
+    </g>
+
+    <g>
+      <rect x="0" y="0" width="360" height="52" rx="6" fill="#000000" opacity="0.35" transform="translate(4,4)"/>
+      <rect x="0" y="0" width="360" height="52" rx="6" fill="url(#cardFace)" stroke="#00A8CC" stroke-width="1" filter="url(#cardShadow)"/>
+      <rect x="12" y="14" width="8" height="24" rx="2" fill="#00A8CC"/>
+      <text x="30" y="24" font-family="monospace" font-size="12" fill="#00A8CC" font-weight="bold">MEDIUM</text>
+      <text x="30" y="40" font-family="monospace" font-size="11" fill="#c9ffd6">Unusual login location flagged — VPN-check</text>
+      <animateTransform attributeName="transform" type="translate"
+        values="750,196; 20,196; 20,196; -400,196"
+        keyTimes="0; 0.15; 0.85; 1"
+        dur="9s" begin="4.4s" repeatCount="indefinite"/>
+    </g>
+
+    <g>
+      <rect x="0" y="0" width="360" height="52" rx="6" fill="#000000" opacity="0.35" transform="translate(4,4)"/>
+      <rect x="0" y="0" width="360" height="52" rx="6" fill="url(#cardFace)" stroke="#39FF14" stroke-width="1" filter="url(#cardShadow)"/>
+      <rect x="12" y="14" width="8" height="24" rx="2" fill="#39FF14"/>
+      <text x="30" y="24" font-family="monospace" font-size="12" fill="#39FF14" font-weight="bold">LOW</text>
+      <text x="30" y="40" font-family="monospace" font-size="11" fill="#c9ffd6">Port scan attempt — auto-blocked by firewall</text>
+      <animateTransform attributeName="transform" type="translate"
+        values="750,264; 20,264; 20,264; -400,264"
+        keyTimes="0; 0.15; 0.85; 1"
+        dur="9s" begin="6.6s" repeatCount="indefinite"/>
+    </g>
+
+  </g>
+
+  <g font-family="monospace" font-size="11" fill="#4a7a55">
+    <text x="40" y="340">triage queue: analyst review</text>
+    <circle cx="640" cy="336" r="4" fill="#39FF14">
+      <animate attributeName="opacity" values="1;0.2;1" dur="1.2s" repeatCount="indefinite"/>
+    </circle>
+    <text x="600" y="340" fill="#39FF14">LIVE</text>
+  </g>
+</svg>
