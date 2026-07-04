@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Banner - Cyber Blue Theme -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:0D1B2B,50:00BFFF,75:0078D4,100:0D1117&height=260&section=header&text=J.%20Bharathikumar&fontSize=46&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:2B1B00,50:FFA500,75:CC7000,100:0D1117&height=260&section=header&text=J.%20Bharathikumar%20-%20SOC%20Analyst%20Student&fontSize=32&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 <br/>
 
@@ -19,13 +19,13 @@
 
 ## <a name="about"></a><span style="color:#00BFFF"><b>About Me</b></span>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=1800&pause=500&color=00D9FF&center=false&vCenter=true&width=600&height=30&repeat=true&lines=%3E+whoa%2C+you+found+my+repo!&lines=%3E+I+detect.+I+hunt.+I+defend." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=1800&pause=500&color=FFA500&center=false&vCenter=true&width=650&height=35&repeat=true&lines=%3E+SOC+Analyst+%7C+Blue+Team&lines=%3E+whoa%2C+you+found+my+repo!&lines=%3E+I+detect.+I+hunt.+I+defend." />
 
 <table width="100%">
 <tr>
 <td width="65%" valign="top">
 
-I'm **J. Bharathikumar**, a Cyber Security student at Mahalingam College of Engineering and Technology, working step by step toward a career as a **SOC (Security Operations Center) Analyst**.
+I'm **J. Bharathikumar — SOC Analyst Student**, a Cyber Security student at Mahalingam College of Engineering and Technology, working step by step toward a career as a **SOC (Security Operations Center) Analyst**.
 
 My focus sits firmly on the **blue-team** side of security. I'm drawn to the investigative side of the field — **threat detection**, **incident response**, and **proactive threat hunting** — the work that happens in a real SOC.
 
@@ -106,6 +106,7 @@ Nachimuthu Polytechnic College, Pollachi
 <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows11&logoColor=white" />
+<img src="https://img.shields.io/badge/Prompt%20Engineering-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" />
 
 <br/><br/>
 
@@ -178,7 +179,7 @@ Diploma capstone — a secure cloud storage system on a Trusted Third Party mode
 
 ## <a name="learning"></a><span style="color:#00BFFF"><b>Currently Learning</b></span>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2000&pause=500&color=0078D4&center=false&vCenter=true&width=600&height=30&repeat=true&lines=Levelin%27+up+in+Detection+Engineering&lines=Mastering+Sigma+Rules+%26+Detection+Logic&lines=Deep+diving+into+MITRE+ATT%26CK" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2000&pause=500&color=00E5FF&center=false&vCenter=true&width=600&height=30&repeat=true&lines=Levelin%27+up+in+Detection+Engineering&lines=Mastering+Sigma+Rules+%26+Detection+Logic&lines=Deep+diving+into+MITRE+ATT%26CK" />
 
 <div align="center">
 
@@ -190,6 +191,22 @@ Diploma capstone — a secure cloud storage system on a Trusted Third Party mode
 <img src="https://img.shields.io/badge/MITRE_ATT%26CK-00BFFF?style=flat-square&labelColor=1a1a1a" />
 <img src="https://img.shields.io/badge/Network_Traffic_Analysis-0078D4?style=flat-square" />
 <img src="https://img.shields.io/badge/Blue_Team_Methodologies-00D9FF?style=flat-square&labelColor=1a1a1a" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,25:0D1B2B,50:00BFFF,75:0078D4,100:0D1117&height=3&width=1000" />
+
+## <a name="certifications"></a><span style="color:#00BFFF"><b>Certifications</b></span>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2200&pause=600&color=FFA500&center=false&vCenter=true&width=750&height=35&repeat=true&lines=Cisco+-+Networking+Basics;Cisco+-+Introduction+to+Cybersecurity;Splunk+Course+-+Udemy;Computer+Vision+-+AI+Club+Certificate;Introduction+to+Cybercrime+-+SimpliLearn" />
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Cisco-Networking_Basics-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/Cisco-Intro_to_Cybersecurity-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/Udemy-Splunk_Course-A435F0?style=for-the-badge&logo=udemy&logoColor=white" />
+<img src="https://img.shields.io/badge/AI_Club-Computer_Vision-FFA500?style=for-the-badge&logo=googlecolab&logoColor=white" />
+<img src="https://img.shields.io/badge/SimpliLearn-Intro_to_Cybercrime-FF6600?style=for-the-badge&logo=simplilearn&logoColor=white" />
 
 </div>
 
